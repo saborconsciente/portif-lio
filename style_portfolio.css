@@ -1,0 +1,28 @@
+
+.grafico{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.links2{
+background-color: #fff;
+margin: 1rem 2rem 1rem 21rem;
+padding: 1rem 0.8rem;
+border-radius: 10px;
+box-shadow: 5px 5px 5px 4px rgb(0,0,0.16);
+display: flex;
+justify-content: space-evenly;
+
+}
+
+.links2 a{
+text-decoration:none ;
+color: black;
+font-size: 1.3rem;
+font-weight: 600;
+}
+
+.linha{
+    border-left: 2px solid rgb(0,0,0.16);
+}

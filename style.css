@@ -1,0 +1,166 @@
+body{ background-color: rgb(203, 203, 203);
+margin: 0%;
+}
+
+#menu {
+    background-color: rgb(30, 56, 116);
+    width: 300px;
+    height: 2000px;
+    text-align: center;
+    box-shadow: 11px 0px 11px rgb(21, 40, 84);
+    margin-top: -55px;
+}
+
+.logo {
+    width: 140px ;
+    height: 155px;
+    border: 7px double rgb(203,203,203);
+    border-radius: 48%;
+    margin-top: 70px;
+    box-shadow: 10px 0.1px 45px rgba(203, 203, 203, 203);
+
+}
+
+h1,h2 {
+     font-size: 1.8rem ;
+color: rgb(203,203,203);
+font-family: Arial, Helvetica, sans-serif;
+text-shadow: 5px 2px 11px rgba(203, 203, 203, 203) ;
+}
+
+.links{
+text-decoration: none;
+color: rgba(255, 255, 255, 0.806);
+font-size: 1.2rem ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+display: flex;
+flex-direction: column;
+padding: 1rem;
+transition: all  0.1s linear;
+box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+
+.links:hover, active{
+background-color:  rgba(203, 203, 203, 203) ;
+color: white;
+font-weight: bold;
+font-size:150% ;
+}
+
+header{
+    float: left;
+}
+
+.info01 {
+background-color: rgb(255, 255, 255);
+margin: 1rem 1rem 1.5rem 20rem ;
+padding: 1rem;
+border-radius: 10px;
+box-shadow: 3px 3px 3px 2px;
+}
+
+.info02 {
+    background-color: rgb(255, 255, 255);
+    margin: 1rem 1rem 1.5rem 2rem ;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 2px;
+    width: 400px;
+    height: 200px;
+    
+    
+    }
+    .info03 {
+        background-color: rgb(255, 255, 255);
+        margin: 1rem 1rem 1.5rem 2rem ;
+        padding: 1rem;
+        border-radius: 10px;
+        box-shadow: 3px 3px 3px 2px;
+        width: 400px;
+        height: 200px;
+        justify-content: flex-start;
+        }
+        .info04 {
+            background-color: rgb(255, 255, 255);
+            margin: 1rem 1rem 1.5rem 2rem ;
+            padding: 1rem;
+            border-radius: 10px;
+            box-shadow: 3px 3px 3px 2px;
+            width: 400px;
+            height: 200px;
+            }
+            .info05 {
+                background-color: rgb(255, 255, 255);
+                margin: 1rem 1rem 1.5rem 2rem ;
+                padding: 1rem;
+                border-radius: 10px;
+                box-shadow: 3px 3px 3px 2px;
+                width: 400px;
+                height: 200px;
+                }
+                .info06 {
+                    background-color: rgb(255, 255, 255);
+                    margin: 1rem 1rem 1.5rem 2rem ;
+                    padding: 1rem;
+                    border-radius: 10px;
+                    box-shadow: 3px 3px 3px 2px;
+                    width: 400px;
+                    height: 200px;
+                    }
+                    .info07 {
+                        background-color: rgb(255, 255, 255);
+                        margin: 1rem 1rem 1.5rem 2rem ;
+                        padding: 1rem;
+                        border-radius: 10px;
+                        box-shadow: 3px 3px 3px 2px;
+                        width: 400px;
+                        height: 200px;
+                        }
+                        .info08 {
+                            background-color: rgb(255, 255, 255);
+                            margin: 1rem 1rem 1.5rem 2rem ;
+                            padding: 1rem;
+                            border-radius: 10px;
+                            box-shadow: 3px 3px 3px 2px;
+                            width: 400px;
+                            height: 200px;
+                            }
+#conteudo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+footer{
+
+    background-color: rgb(30, 56, 116);
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 0.5rem;
+    margin: -15px;
+    clear: both;
+}
+
+h3{
+    text-align: center;
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 30px 15px 25px rgb(0, 0, 0)
+}
+li{
+        color: rgb(47, 47, 47);
+        font-size: 18px;
+    }
+
+    p{
+        color: rgb(6, 6, 6);
+        font-size: 23px;
+    }
+
+    #video{
+        display: flex;
+        justify-content: center;
+        margin-left: 20rem;
+    }
+    
